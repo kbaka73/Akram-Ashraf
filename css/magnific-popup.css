@@ -1,4 +1,5 @@
 /* Magnific Popup CSS */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Island+Moments&display=swap');
 .mfp-bg {
   top: 0;
   left: 0;
@@ -38,6 +39,10 @@
   animation-name: kbaka;
 }
 
+.kbakaa{
+  font-size: 40px;
+  font-family: 'Dancing Script', cursive;
+}
 
 ::-webkit-scrollbar{
   width: 15px;
